@@ -1,0 +1,73 @@
+{
+    "game:item-treeseed-oak": "Gland (graine de chêne)",
+
+    "item-acorn": "Gland",
+    "itemdesc-acorn": "Mettre 50 glands en paquet",
+    "item-acorns-fresh": "Glands frais",
+    "itemdesc-acorns-fresh": "Laissez-les sécher un jour.",
+    "item-acorns-shelled": "Glands décortiqués",
+    "itemdesc-acorns-shelled": "Faites-les tremper dans un tonneau d'eau pour en extraire le tanin.",
+    "item-mallet": "Maillet en bois",
+    "item-mallet-head": "Tête de maillet en bois",
+    "item-acorns-leached": "Glands humides lessivés",
+    "itemdesc-acorns-leached": "Faites-les sécher sur un foyer.",
+    "item-acorns-dry-leached": "Sécher les glands lessivés",
+    "itemdesc-acorns-dry-leached": "Broyez-les en farine de glands.",
+    "item-acorn-meal": "Farine de glands",
+    "itemdesc-acorn-meal": "Moulez-les en farine de glands ou ajoutez-les aux ragoûts pour leur apporter des protéines.",
+
+    "item-acorn-griddle-cake": "Gâteau aux glands grillés",
+    "item-dough-acorn-griddle-cake": "Pâte de gâteau aux glands grillés",
+
+    "item-bread-acorn-flax": "Pain aux glands et au lin (ancienne version)",
+    "item-bread-acorn-rice": "Pain aux glands et au riz (ancienne version)",
+    "item-bread-acorn-rye": "Pain aux glands et au seigle (ancienne version)",
+    "item-bread-acorn-spelt": "Pain aux glands et à l'épeautre (ancienne version)",
+    "item-bread-acorn-cassava": "Pain aux glands et au manioc (ancienne version)",
+    "item-bread-acorn-amaranth": "Pain aux glands et à l'amarante (ancienne version)",
+    "item-bread-acorn-sunflower": "Pain aux glands et au tournesol (ancienne version)",
+
+    "game:item-bread-acornflax-perfect": "Pain aux glands et au lin",
+    "game:item-bread-acornrice-perfect": "Pain aux glands et au riz",
+    "game:item-bread-acornrye-perfect": "Pain aux glands et au seigle",
+    "game:item-bread-acornspelt-perfect": "Pain aux glands et à l'épeautre",
+    "game:item-bread-acorncassava-perfect": "Pain aux glands et au manioc",
+    "game:item-bread-acornamaranth-perfect": "Pain aux glands et à l'amarante",
+    "game:item-bread-acornsunflower-perfect": "Pain aux glands et au tournesol",
+
+    "game:item-bread-acornflax-partbaked": "Pain aux glands et au lin (mi-cuit)",
+    "game:item-bread-acornrice-partbaked": "Pain aux glands et au riz (mi-cuit)",
+    "game:item-bread-acornrye-partbaked": "Pain aux glands et au seigle (mi-cuit)",
+    "game:item-bread-acornspelt-partbaked": "Pain aux glands et à l'épeautre (mi-cuit)",
+    "game:item-bread-acorncassava-partbaked": "Pain aux glands et au manioc (mi-cuit)",
+    "game:item-bread-acornamaranth-partbaked": "Pain aux glands et à l'amarante (mi-cuit)",
+    "game:item-bread-acornsunflower-partbaked": "Pain aux glands et au tournesol (mi-cuit)",
+
+    "game:item-bread-acornflax-charred": "Pain aux glands et au lin (carbonisé)",
+    "game:item-bread-acornrice-charred": "Pain aux glands et au riz (carbonisé)",
+    "game:item-bread-acornrye-charred": "Pain aux glands et au seigle (carbonisé)",
+    "game:item-bread-acornspelt-charred": "Pain aux glands et à l'épeautre (carbonisé)",
+    "game:item-bread-acorncassava-charred": "Pain aux glands et au manioc (carbonisé)",
+    "game:item-bread-acornamaranth-charred": "Pain aux glands et à l'amarante (carbonisé)",
+    "game:item-bread-acornsunflower-charred": "Pain aux glands et au tournesol (carbonisé)",
+
+    "game:item-dough-acornflax": "Pâte de pain aux glands et au lin",
+    "game:item-dough-acornrice": "Pâte de pain aux glands et au riz",
+    "game:item-dough-acornrye": "Pâte de pain aux glands et au seigle",
+    "game:item-dough-acornspelt": "Pâte de pain aux glands et à l'épeautre",
+    "game:item-dough-acorncassava": "Pâte de pain aux glands et au manioc",
+    "game:item-dough-acornamaranth": "Pâte de pain aux glands et à l'amarante",
+    "game:item-dough-acornsunflower": "Pâte de pain aux glands et au tournesol",
+
+    "item-flour-acorn": "Farine de glands",
+    "itemdesc-flour-acorn": "Sans gluten. Doit être mixée avec une autre farine et de l'eau pour faire de la pâte à pain.",
+
+    "block-acorns-dry": "Glands séchés",
+    "blockdesc-acorns-dry": "Pour retirer les coques, placez-les sur le sol et battez-les avec un maillet.",
+
+    "recipeingredient-item-acorn-meal": "farine de glands",
+    "recipeingredient-item-acorn-meal-insturmentalcase": "farine de glands",
+    "recipeingredient-item-acorn-meal": "farine de glands",
+    "game:meal-ingredient-stew-primary-acorn-meal": "Gland",
+    "game:meal-ingredient-stew-secondary-acorn-meal": "Gland"
+}
