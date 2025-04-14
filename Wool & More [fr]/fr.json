@@ -28,6 +28,10 @@
 
         "wool:setting_enable_bleach":					"Eau de Javel",
         "wool:setting_enable_bleach_comment":				"Les fibres colorées peuvent-elles être blanchies par la Javel?",
+    
+	"wool:settings_panning":                                        "Extraction",
+	"wool:setting_enable_panning":					"Butin additionnel de l'extraction",
+	"wool:setting_enable_panning_comment":				"L'extraction par batée doit-elle produire de la toison ou des fibres ?",
 
 	"wool:gamemechanicinfo-animalshearing-title":			"Mécanique de jeu : Tonte d'animal",
 	"wool:gamemechanicinfo-animalshearing-text": 			"<strong>Élevage - Laine et tonte</strong><br><br>Certains animaux domestiques peuvent être tondus pour leur toison.<br>L'animal doit être au moins de la génération 3 et être vivant, mais la toison peut être récoltée sur des animaux morts.<br>Utilisez des cisailles pour obtenir les meilleurs résultats. Il est également possible d'utiliser un couteau, mais le risque de blesser l'animal pendant la tonte est plus élevé. <br>Les animaux mettent un certain temps à repousser leur toison. Les animaux de générations supérieures font repousser leur toison plus rapidement et risquent moins de se blesser lors de la tonte.<br><br>Le type et la couleur de la toison dépendent de l'espèce animale. Certains produisent même deux couleurs à la fois !<br><br><strong>Configuration</strong><br><br>Les espèces animales qui peuvent être tondues dépendent de la configuration de votre mod. Pour configurer cela, et pour activer la config, <strong><font color='#4080a0'>ConfigLib</font></strong> et <strong><font color='#4080a0'>ImGui</font></strong> doivent être installés. <br>Par défaut, les mouflons, les chèvres, les gazelles, les élans, les orignaux et les cerfs peuvent être tondus.",
