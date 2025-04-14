@@ -460,7 +460,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stonecabinet-peridotite-*": "Meuble de rangement en pierre de péridotite",
   "block-stonecabinet-phyllite-*": "Meuble de rangement en pierre de phyllite",
   "block-stonecabinet-sandstone-*": "Meuble de rangement en pierre de grès",
-  "block-stonecabinet-shale-*": "Meuble de rangement en pierre de schiste argileux",
+  "block-stonecabinet-shale-*": "Meuble de rangement en pierre de schiste",
   "block-stonecabinet-slate-*": "Meuble de rangement en pierre de ardoise",
   "block-stonecabinet-suevite-*": "Meuble de rangement en pierre de suévite",
 
@@ -477,7 +477,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stoneuppercabinet-peridotite-*": "Stone Upper Cabinet péridotite",
   "block-stoneuppercabinet-phyllite-*": "Stone Upper Cabinet phyllite",
   "block-stoneuppercabinet-sandstone-*": "Stone Upper Cabinet grès",
-  "block-stoneuppercabinet-shale-*": "Stone Upper Cabinet schiste argileux",
+  "block-stoneuppercabinet-shale-*": "Stone Upper Cabinet schiste",
   "block-stoneuppercabinet-slate-*": "Stone Upper Cabinet ardoise",
   "block-stoneuppercabinet-suevite-*": "Stone Upper Cabinet suévite",
 
@@ -494,7 +494,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stonecabinetisland-peridotite-*": "Îlot de rangement en pierre de péridotite",
   "block-stonecabinetisland-phyllite-*": "Îlot de rangement en pierre de phyllite",
   "block-stonecabinetisland-sandstone-*": "Îlot de rangement en pierre de grès",
-  "block-stonecabinetisland-shale-*": "Îlot de rangement en pierre de schiste argileux",
+  "block-stonecabinetisland-shale-*": "Îlot de rangement en pierre de schiste",
   "block-stonecabinetisland-slate-*": "Îlot de rangement en pierre de ardoise",
   "block-stonecabinetisland-suevite-*": "Îlot de rangement en pierre de suévite",
 
@@ -511,7 +511,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stonedrawers-peridotite-*": "Comptoir en pierre de péridotite",
   "block-stonedrawers-phyllite-*": "Comptoir en pierre de phyllite",
   "block-stonedrawers-sandstone-*": "Comptoir en pierre de grès",
-  "block-stonedrawers-shale-*": "Comptoir en pierre de schiste argileux",
+  "block-stonedrawers-shale-*": "Comptoir en pierre de schiste",
   "block-stonedrawers-slate-*": "Comptoir en pierre de ardoise",
   "block-stonedrawers-suevite-*": "Comptoir en pierre de suévite",
 
@@ -528,7 +528,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stonedrawersisland-peridotite-*": "Comptoir en pierre de Island péridotite",
   "block-stonedrawersisland-phyllite-*": "Comptoir en pierre de Island phyllite",
   "block-stonedrawersisland-sandstone-*": "Comptoir en pierre de Island grès",
-  "block-stonedrawersisland-shale-*": "Comptoir en pierre de Island schiste argileux",
+  "block-stonedrawersisland-shale-*": "Comptoir en pierre de Island schiste",
   "block-stonedrawersisland-slate-*": "Comptoir en pierre de Island ardoise",
   "block-stonedrawersisland-suevite-*": "Comptoir en pierre de Island suévite",
 
@@ -545,7 +545,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stoneshelf-peridotite-*": "Étagère en pierre de péridotite",
   "block-stoneshelf-phyllite-*": "Étagère en pierre de phyllite",
   "block-stoneshelf-sandstone-*": "Étagère en pierre de grès",
-  "block-stoneshelf-shale-*": "Étagère en pierre de schiste argileux",
+  "block-stoneshelf-shale-*": "Étagère en pierre de schiste",
   "block-stoneshelf-slate-*": "Étagère en pierre de ardoise",
   "block-stoneshelf-suevite-*": "Étagère en pierre de suévite",
 
@@ -1475,7 +1475,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-bismuth-*": "Double évier en pierre de péridotite et bismuth",
   "block-doublestonesink-phyllite-bismuth-*": "Double évier en pierre de phyllite et bismuth",
   "block-doublestonesink-sandstone-bismuth-*": "Double évier en pierre de grès et bismuth",
-  "block-doublestonesink-shale-bismuth-*": "Double évier en pierre de schiste argileux et bismuth",
+  "block-doublestonesink-shale-bismuth-*": "Double évier en pierre de schiste et bismuth",
   "block-doublestonesink-slate-bismuth-*": "Double évier en pierre d'ardoise et bismuth",
   "block-doublestonesink-suevite-bismuth-*": "Double évier en pierre de suévite et bismuth",
 
@@ -1492,7 +1492,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-bismuthbronze-*": "Double évier en pierre de péridotite et bronze-bismuth",
   "block-doublestonesink-phyllite-bismuthbronze-*": "Double évier en pierre de phyllite et bronze-bismuth",
   "block-doublestonesink-sandstone-bismuthbronze-*": "Double évier en pierre de grès et bronze-bismuth",
-  "block-doublestonesink-shale-bismuthbronze-*": "Double évier en pierre de schiste argileux et bronze-bismuth",
+  "block-doublestonesink-shale-bismuthbronze-*": "Double évier en pierre de schiste et bronze-bismuth",
   "block-doublestonesink-slate-bismuthbronze-*": "Double évier en pierre d'ardoise et bronze-bismuth",
   "block-doublestonesink-suevite-bismuthbronze-*": "Double évier en pierre de suévite et bronze-bismuth",
 
@@ -1509,7 +1509,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-blackbronze-*": "Double évier en pierre de péridotite et bronze noir",
   "block-doublestonesink-phyllite-blackbronze-*": "Double évier en pierre de phyllite et bronze noir",
   "block-doublestonesink-sandstone-blackbronze-*": "Double évier en pierre de grès et bronze noir",
-  "block-doublestonesink-shale-blackbronze-*": "Double évier en pierre de schiste argileux et bronze noir",
+  "block-doublestonesink-shale-blackbronze-*": "Double évier en pierre de schiste et bronze noir",
   "block-doublestonesink-slate-blackbronze-*": "Double évier en pierre d'ardoise et bronze noir",
   "block-doublestonesink-suevite-blackbronze-*": "Double évier en pierre de suévite et bronze noir",
 
@@ -1526,7 +1526,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-brass-*": "Double évier en pierre de péridotite et laiton",
   "block-doublestonesink-phyllite-brass-*": "Double évier en pierre de phyllite et laiton",
   "block-doublestonesink-sandstone-brass-*": "Double évier en pierre de grès et laiton",
-  "block-doublestonesink-shale-brass-*": "Double évier en pierre de schiste argileux et laiton",
+  "block-doublestonesink-shale-brass-*": "Double évier en pierre de schiste et laiton",
   "block-doublestonesink-slate-brass-*": "Double évier en pierre d'ardoise et laiton",
   "block-doublestonesink-suevite-brass-*": "Double évier en pierre de suévite et laiton",
 
@@ -1543,7 +1543,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-copper-*": "Double évier en pierre de péridotite et cuivre",
   "block-doublestonesink-phyllite-copper-*": "Double évier en pierre de phyllite et cuivre",
   "block-doublestonesink-sandstone-copper-*": "Double évier en pierre de grès et cuivre",
-  "block-doublestonesink-shale-copper-*": "Double évier en pierre de schiste argileux et cuivre",
+  "block-doublestonesink-shale-copper-*": "Double évier en pierre de schiste et cuivre",
   "block-doublestonesink-slate-copper-*": "Double évier en pierre d'ardoise et cuivre",
   "block-doublestonesink-suevite-copper-*": "Double évier en pierre de suévite et cuivre",
 
@@ -1560,7 +1560,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-gold-*": "Double évier en pierre de péridotite et or",
   "block-doublestonesink-phyllite-gold-*": "Double évier en pierre de phyllite et or",
   "block-doublestonesink-sandstone-gold-*": "Double évier en pierre de grès et or",
-  "block-doublestonesink-shale-gold-*": "Double évier en pierre de schiste argileux et or",
+  "block-doublestonesink-shale-gold-*": "Double évier en pierre de schiste et or",
   "block-doublestonesink-slate-gold-*": "Double évier en pierre d'ardoise et or",
   "block-doublestonesink-suevite-gold-*": "Double évier en pierre de suévite et or",
 
@@ -1577,7 +1577,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-iron-*": "Double évier en pierre de péridotite et fer",
   "block-doublestonesink-phyllite-iron-*": "Double évier en pierre de phyllite et fer",
   "block-doublestonesink-sandstone-iron-*": "Double évier en pierre de grès et fer",
-  "block-doublestonesink-shale-iron-*": "Double évier en pierre de schiste argileux et fer",
+  "block-doublestonesink-shale-iron-*": "Double évier en pierre de schiste et fer",
   "block-doublestonesink-slate-iron-*": "Double évier en pierre d'ardoise et fer",
   "block-doublestonesink-suevite-iron-*": "Double évier en pierre de suévite et fer",
 
@@ -1594,7 +1594,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-meteoriciron-*": "Double évier en pierre de péridotite et fer météorique",
   "block-doublestonesink-phyllite-meteoriciron-*": "Double évier en pierre de phyllite et fer météorique",
   "block-doublestonesink-sandstone-meteoriciron-*": "Double évier en pierre de grès et fer météorique",
-  "block-doublestonesink-shale-meteoriciron-*": "Double évier en pierre de schiste argileux et fer météorique",
+  "block-doublestonesink-shale-meteoriciron-*": "Double évier en pierre de schiste et fer météorique",
   "block-doublestonesink-slate-meteoriciron-*": "Double évier en pierre d'ardoise et fer météorique",
   "block-doublestonesink-suevite-meteoriciron-*": "Double évier en pierre de suévite et fer météorique",
 
@@ -1611,7 +1611,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-nickel-*": "Double évier en pierre de péridotite et nickel",
   "block-doublestonesink-phyllite-nickel-*": "Double évier en pierre de phyllite et nickel",
   "block-doublestonesink-sandstone-nickel-*": "Double évier en pierre de grès et nickel",
-  "block-doublestonesink-shale-nickel-*": "Double évier en pierre de schiste argileux et nickel",
+  "block-doublestonesink-shale-nickel-*": "Double évier en pierre de schiste et nickel",
   "block-doublestonesink-slate-nickel-*": "Double évier en pierre d'ardoise et nickel",
   "block-doublestonesink-suevite-nickel-*": "Double évier en pierre de suévite et nickel",
 
@@ -1628,7 +1628,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-silver-*": "Double évier en pierre de péridotite et argent",
   "block-doublestonesink-phyllite-silver-*": "Double évier en pierre de phyllite et argent",
   "block-doublestonesink-sandstone-silver-*": "Double évier en pierre de grès et argent",
-  "block-doublestonesink-shale-silver-*": "Double évier en pierre de schiste argileux et argent",
+  "block-doublestonesink-shale-silver-*": "Double évier en pierre de schiste et argent",
   "block-doublestonesink-slate-silver-*": "Double évier en pierre d'ardoise et argent",
   "block-doublestonesink-suevite-silver-*": "Double évier en pierre de suévite et argent",
 
@@ -1645,7 +1645,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-steel-*": "Double évier en pierre de péridotite et acier",
   "block-doublestonesink-phyllite-steel-*": "Double évier en pierre de phyllite et acier",
   "block-doublestonesink-sandstone-steel-*": "Double évier en pierre de grès et acier",
-  "block-doublestonesink-shale-steel-*": "Double évier en pierre de schiste argileux et acier",
+  "block-doublestonesink-shale-steel-*": "Double évier en pierre de schiste et acier",
   "block-doublestonesink-slate-steel-*": "Double évier en pierre d'ardoise et acier",
   "block-doublestonesink-suevite-steel-*": "Double évier en pierre de suévite et acier",
 
@@ -1662,7 +1662,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-tin-*": "Double évier en pierre de péridotite et étain",
   "block-doublestonesink-phyllite-tin-*": "Double évier en pierre de phyllite et étain",
   "block-doublestonesink-sandstone-tin-*": "Double évier en pierre de grès et étain",
-  "block-doublestonesink-shale-tin-*": "Double évier en pierre de schiste argileux et étain",
+  "block-doublestonesink-shale-tin-*": "Double évier en pierre de schiste et étain",
   "block-doublestonesink-slate-tin-*": "Double évier en pierre d'ardoise et étain",
   "block-doublestonesink-suevite-tin-*": "Double évier en pierre de suévite et étain",
 
@@ -1679,7 +1679,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-doublestonesink-peridotite-tinbronze-*": "Double évier en pierre de péridotite et bronze-étain",
   "block-doublestonesink-phyllite-tinbronze-*": "Double évier en pierre de phyllite et bronze-étain",
   "block-doublestonesink-sandstone-tinbronze-*": "Double évier en pierre de grès et bronze-étain",
-  "block-doublestonesink-shale-tinbronze-*": "Double évier en pierre de schiste argileux et bronze-étain",
+  "block-doublestonesink-shale-tinbronze-*": "Double évier en pierre de schiste et bronze-étain",
   "block-doublestonesink-slate-tinbronze-*": "Double évier en pierre d'ardoise et bronze-étain",
   "block-doublestonesink-suevite-tinbronze-*": "Double évier en pierre de suévite et bronze-étain",
 
@@ -2973,7 +2973,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stoneinnercabinet-peridotite-*": "Meuble de rangement intérieur en pierre de péridotite",
   "block-stoneinnercabinet-phyllite-*": "Meuble de rangement intérieur en pierre de phyllite",
   "block-stoneinnercabinet-sandstone-*": "Meuble de rangement intérieur en pierre de grès",
-  "block-stoneinnercabinet-shale-*": "Meuble de rangement intérieur en pierre de schiste argileux",
+  "block-stoneinnercabinet-shale-*": "Meuble de rangement intérieur en pierre de schiste",
   "block-stoneinnercabinet-slate-*": "Meuble de rangement intérieur en pierre de ardoise",
   "block-stoneinnercabinet-suevite-*": "Meuble de rangement intérieur en pierre de suévite",
 
@@ -2992,7 +2992,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stonecabinetuppercorner-peridotite-*": "Meuble de rangement supérieur de coin en pierre de péridotite",
   "block-stonecabinetuppercorner-phyllite-*": "Meuble de rangement supérieur de coin en pierre de phyllite",
   "block-stonecabinetuppercorner-sandstone-*": "Meuble de rangement supérieur de coin en pierre de grès",
-  "block-stonecabinetuppercorner-shale-*": "Meuble de rangement supérieur de coin en pierre de schiste argileux",
+  "block-stonecabinetuppercorner-shale-*": "Meuble de rangement supérieur de coin en pierre de schiste",
   "block-stonecabinetuppercorner-slate-*": "Meuble de rangement supérieur de coin en pierre de ardoise",
   "block-stonecabinetuppercorner-suevite-*": "Meuble de rangement supérieur de coin en pierre de suévite",
 
@@ -3130,7 +3130,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-stonesinglesink-peridotite-*": "Évier simple en pierre de péridotite",
   "block-stonesinglesink-phyllite-*": "Évier simple en pierre de phyllite",
   "block-stonesinglesink-sandstone-*": "Évier simple en pierre de grès",
-  "block-stonesinglesink-shale-*": "Évier simple en pierre de schiste argileux",
+  "block-stonesinglesink-shale-*": "Évier simple en pierre de schiste",
   "block-stonesinglesink-slate-*": "Évier simple en pierre de ardoise",
   "block-stonesinglesink-suevite-*": "Évier simple en pierre de suévite",
 
