@@ -200,7 +200,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
 
 ",
 
-  // Variantes à alterner en mode créatif //
+// Variantes à alterner en mode créatif //
 
   "blockhelp-creative-switch": "Cliquez-droit sur moi !",
 
@@ -1839,7 +1839,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
  "block-wardrobe-satinash-*": "Garde-robe en satinache",
 
 
-// decoshelf variants //
+// Variantes d'étagère décorative //
 
 
   "block-decoshelf-aged-*": "Étagère de décoration en bois vieilli",
@@ -1893,7 +1893,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
  "block-decoshelf-redcedar-*": "Étagère de décoration en thuya géant",
  "block-decoshelf-satinash-*": "Étagère de décoration en satinache",
 
-// spice rack variants //
+// Variantes d'étagère à épices //
 
   "block-spicerack-aged-*": "Étagère à épices en bois vieilli",
   "block-spicerack-acacia-*": "Étagère à épices en acacia",
@@ -1947,7 +1947,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
  "block-spicerack-satinash-*": "Étagère à épices en satinache",
 
 
-// side table variants //
+// Variantes de table d'appoint //
 
   "block-sidetable-aged-1-*": "Table d'appoint en bois vieilli",
   "block-sidetable-aged-2-*": "Table d'appoint en bois vieilli",
