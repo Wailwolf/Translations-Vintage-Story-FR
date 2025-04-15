@@ -126,11 +126,11 @@
 	"em:item-crushed-stone-chert":					"Chaille concassée",
 	"em:item-crushed-stone-claystone":				"Argilite concassée",
 	"em:item-crushed-stone-conglomerate":				"Conglomérat concassé",
-	"em:item-crushed-stone-granite":				"Granit concassé",
+	"em:item-crushed-stone-granite":				"Granite concassé",
 	"em:item-crushed-stone-obsidian":				"Obsidienne concassée",
 	"em:item-crushed-stone-phyllite":				"Phyllite concassée",
 	"em:item-crushed-stone-sandstone":				"Grès concassé",
-	"em:item-crushed-stone-shale":					"Schiste argileux concassé",
+	"em:item-crushed-stone-shale":					"Schiste concassé",
 	"em:item-crushed-stone-slate":					"Ardoise concassée",
 
 	"em:item-powdered-stone-andesite":				"Poudre d'andésite",
@@ -139,12 +139,12 @@
 	"em:item-powdered-stone-chert":					"Poudre de chaille",
 	"em:item-powdered-stone-claystone":				"Poudre d'argilite",
 	"em:item-powdered-stone-conglomerate":				"Poudre de conglomérat",
-	"em:item-powdered-stone-granite":				"Poudre de granit",
+	"em:item-powdered-stone-granite":				"Poudre de granite",
 	"em:item-powdered-stone-obsidian":				"Poudre d'obsidienne",
 	"em:item-powdered-stone-peridotite":				"Poudre de péridotite",
 	"em:item-powdered-stone-phyllite":				"Poudre de phyllite",
 	"em:item-powdered-stone-sandstone":				"Poudre de grès",
-	"em:item-powdered-stone-shale":					"Poudre de schiste argileux",
+	"em:item-powdered-stone-shale":					"Poudre de schiste",
 	"em:item-powdered-stone-slate":					"Poudre d'ardoise",
 
 	"em:item-powdered-metal-copper":				"Poudre de cuivre",
@@ -166,8 +166,8 @@
 
 	"em:item-powdered-ore-boneash":					"Cendres d'os",
 	"em:item-powdered-ore-cassiterite":				"Poudre d'oxyde d'étain",
-	"em:item-powdered-ore-coal":					"Powdered charbon",
-	"em:item-powdered-ore-chromite":				"Powdered chromite",
+	"em:item-powdered-ore-coal":					"Poudre de charbon",
+	"em:item-powdered-ore-chromite":				"Poudre de chromite",
 	"em:item-powdered-ore-chromiumoxide":				"Viridien",
 	"game:item-powder-cinnabar":					"Vermillon",
 	"em:item-powdered-ore-corundum":				"Poudre de corindon",
@@ -180,7 +180,7 @@
 	"em:item-powdered-ore-ilmenite":				"Poudre d'ilménite",
 	"em:item-powdered-ore-kernite":					"Poudre de kernite",
 	"game:item-powder-lapislazuli":					"Outremer",
-	"em:item-powdered-ore-leadoxide":				"Poudre d'oxide de plomb",
+	"em:item-powdered-ore-leadoxide":				"Poudre d'oxyde de plomb",
 	"em:item-powdered-ore-limonite":				"Poudre de limonite",
 	"em:item-powdered-ore-litharge":				"Litharge",
 	"em:item-powdered-ore-magnetite":				"Poudre de magnétite",
@@ -200,11 +200,11 @@
 	"em:item-powdered-ore-whitelead":				"Plomb blanc",
 	"em:item-powdered-ore-whitephosphorus":				"Poudre de phosphore blanc",
 	"em:item-powdered-ore-yellowcake":				"Gâteau jaune",
-	"em:item-powdered-ore-zincoxide":				"Poudre d'oxide de zinc",
+	"em:item-powdered-ore-zincoxide":				"Poudre d'oxyde de zinc",
 
 	"game:itemdesc-powder-alum":					"Peut être utilisée comme mordant pour la fabrication de teintures.",
 	"game:itemdesc-powder-cinnabar":				"Cinabre, moulu en une poudre rouge orange vif.",
-	"game:itemdesc-powder-lapislazuli":				"Lapis lazuli, broyé en une fine poudre bleu foncé.",
+	"game:itemdesc-powder-lapislazuli":				"Lapis-lazuli, broyé en une fine poudre bleu foncé.",
 
 	"em:itemdesc-powdered-ore-boneash":				"Un ingrédient important pour la porcelaine, les glaçures laiteuses et le verre.",
 	"em:itemdesc-powdered-ore-cassiterite":				"Pigment blanc et agent opacifiant, utile comme mordant pour la fabrication de teintures.",
@@ -225,11 +225,11 @@
 	"em:itemdesc-powdered-ore-phosphorite":				"Émet une très faible lueur blanche.<br><br>Ne pas inhaler !",
 	"em:itemdesc-powdered-ore-redphosphorus":			"Émet une faible lueur rouge.<br><br>Ne pas inhaler !",
 	"em:itemdesc-powdered-ore-rhodochrosite":			"Donne aux vernis de verre et de céramique une couleur rose, violette ou vert foncé.",
-	"em:itemdesc-powdered-ore-ultramarine":				"Lapis lazuli, moulu en fine poudre.",
+	"em:itemdesc-powdered-ore-ultramarine":				"Lapis-lazuli, moulu en fine poudre.",
 	"em:itemdesc-powdered-ore-whitephosphorus":			"Brille dans le noir. Ne pas inhaler !",
 	"em:itemdesc-powdered-ore-whitelead":				"Pigment blanc.<br><br><font color=\"#99c9f9\"><i>... et ils ont placé des morceaux de plomb dans des pots avec du vinaigre fort, les ont recouverts de fumier et de tanin usé et les ont laissés pendant trois quinzaines... </i></font>",
 	"em:itemdesc-powdered-ore-yellowcake":				"Oxyde d'uranium concentré aussi appelé concentré orange.<br><br><font color=\"#99c9f9\"><i>Ne mangez pas ce gâteau jaune !</i></font>",
-	"em:itemdesc-powdered-ore-zincoxide":				"La poudre d'oxide de zinc est également connue sous le nom de blanc de zinc. Ingrédient pour les peintures et les glacis d'un blanc éclatant.",
+	"em:itemdesc-powdered-ore-zincoxide":				"La poudre d'oxyde de zinc est également connue sous le nom de blanc de zinc. Ingrédient pour les peintures et les glacis d'un blanc éclatant.",
 
 	"game:handbook-item-usage-powdered":			"Utilisée comme pigment pour teindre et colorer divers produits.",
 
@@ -245,7 +245,7 @@
 
 
 	"game:handbook-item-usage-powdered-stone-bauxite":	"Contient de l'oxyde d'aluminium et des traces d'oxydes de fer. Ces derniers créent des couleurs orange ou rouge.",
-	"game:handbook-item-usage-powdered-stone-granite":	"Le granit en poudre est un ingrédient important pour la porcelaine.",
+	"game:handbook-item-usage-powdered-stone-granite":	"Le granite en poudre est un ingrédient important pour la porcelaine.",
 	"game:handbook-item-usage-powdered-stone-obsidian":	"Peut être utile pour les couleurs de verre foncées.",
 
 	"game:handbook-item-usage-powdered-ore-boneash":	"Un ingrédient important pour la porcelaine fine, les glaçures laiteuses et le verre laiteux. La poudre peut également être utilisée comme engrais.<br>Chauffer avec du <a href=\"handbook://item-coke\">coke</a> pour la réduire en <a href=\"handbook://item-em:powdered-ore-whitephosphorus\">phosphore blanc</a>.",
