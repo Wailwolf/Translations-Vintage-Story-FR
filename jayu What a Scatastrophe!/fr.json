@@ -1,0 +1,35 @@
+{
+    "item-poop": "Excréments",
+    "incontainer-item-poopportion": "Excréments frais",
+    "item-poopportion": "Excréments frais",
+    
+    "block-dungbrick": "Brique d'excréments",
+
+    "ability-elephantbowels": "Intestins d'éléphant",
+    "abilitydesc-elephantbowels": "Augmente votre capacité intestinale de {0}.",
+    
+    "interaction-poop": "Déféquer",
+
+    "scatastrophe": "Quelle scatastrophe ! (Serveur)",
+    "Config.Text.SupportsWildcard": "Supporte les caractères génériques",
+    "Config.SettingsSimple": "Paramètres simples",
+    "Config.Setting.BowelCapacity": "Capacité intestinale maximale",
+    "Config.Setting.BowelCapacityOverload": "Surcharge de la capacité intestinale",
+    "Config.Setting.BowelWalkSpeedDebuff": "Débuff de vitesse de marche dû à des intestins pleins",
+    "Config.Setting.PoopGenerationRatio": "Ratio de gain de barre d'excréments par rapport à la saturation perdue",
+    "Config.Setting.PoopNutrientChance": "Chance que l'excrément donne des nutriments aux terres agricoles (0 pour désactiver)",
+    "Config.Setting.PoopDrainRate": "Taux de drainage d'excréments",
+    "Config.Setting.PoopNutrientLevels": "Quantité de nutriments fournis par les excréments",
+
+
+    "scatastrophe_client": "Quelle scatastrophe ! (Client)",
+    "Config.Setting.PoopBarX": "Décalage barre d'excréments x",
+    "Config.Setting.PoopBarY": "Décalage barre d'excréments y",
+
+
+    "blockhelp-dungbrickpile-add": "Ajouter une brique d'excréments",
+    "blockhelp-dungbrickpile-remove": "Retirer une brique d'excréments",
+    "blockhelp-dungbrickpile-4add": "Ajouter une brique d'excréments x4",
+    "blockhelp-dungbrickpile-4remove": "Retirer une brique d'excréments x4"
+    
+}
