@@ -606,7 +606,7 @@
 
     "item-handbooktitle-citrine": "Comment fabriquer du verre :",
 
-    "item-handbooktext-citrine": "<a href=\"handbook://craftinginfo-smelting\">La Fusion</a> de la citrine nécessite des températures trop élevées pour les combustibles ordinaires. Utilisez un <a href=\"handbook://block-bloomerybase-north\">four à chaux</a> pour fondre la citrine en verre.",
+    "item-handbooktext-citrine": "La <a href=\"handbook://craftinginfo-smelting\">Fusion</a> de la citrine nécessite des températures trop élevées pour les combustibles ordinaires. Utilisez un <a href=\"handbook://block-bloomerybase-north\">four à chaux</a> pour fondre la citrine en verre.",
     
     "game:block-polishedrockold-full-gabbro": "Roche polie vieillie (Gabbro)",
     "game:block-polishedrockold-full-amphibolite": "Roche polie vieillie (Amphibolite)",
