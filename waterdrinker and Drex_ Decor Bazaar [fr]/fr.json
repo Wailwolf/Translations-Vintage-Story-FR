@@ -19,7 +19,7 @@ Le <a href=\"handbooksearch://Four en pierre\">Four en pierre</a> est un four au
 Le <a href=\"handbooksearch://Four avec verre\">Four avec verre</a> est un four autonome (voir note ci dessus !).
 Le <a href=\"handbooksearch://Four avec verre luxueux\">Four avec verre luxueux</a> est un four autonome (voir note ci dessus !).
 <a href=\"handbooksearch://Four de table\">Four de table</a>
-<a href=\"handbooksearch://Four de table avec verre\">>Four de table avec verre</a>
+<a href=\"handbooksearch://Four de table avec verre\">Four de table avec verre</a>
 <a href=\"handbooksearch://Four de table avec verre luxueux\">Four de table avec verre luxueux</a>
 
 
@@ -42,7 +42,7 @@ La <a href=\"handbooksearch://Baignoire sur pieds\">Baignoire sur pieds</a> perm
 
 
 Tapis :
-Les <a href=\"handbooksearch://Tapis\">Tapis</a> sont disponibles en bleu, noir foncé, rouge vichy, vert, neutre, rouge, blanc, à pois blancs, à fleurs jaunes, motifs chics foncés et motifs floraux sombres. 
+Les <a href=\"handbooksearch://Tapis\">Tapis</a> sont disponibles en bleu, noir foncé, rouge vichy, vert, ordinaire, rouge, blanc, à pois blancs, à fleurs jaunes, motifs chics foncés et motifs floraux sombres. 
 
 
 Lits :
@@ -57,7 +57,8 @@ Tables :
 <a href=\"handbooksearch://Table d'appoint\">Tables d'appoint</a> : cliquez avec le bouton droit pour changer de variante.
 <a href=\"handbooksearch://Table en laiton\">Table en laiton</a>
 <a href=\"handbooksearch://Table basse\">Table basse</a> : cliquez avec le bouton droit pour changer de variante.
-Les <a href=\"handbooksearch://Table style Chaumière\">Tables style Chaumière</a> ont toutes les variantes de bois et ont une version simple et double.
+Les <a href=\"handbooksearch://Table simple style Chaumière\">Tables simples style Chaumière</a> ont toutes les variantes de bois.
+Les <a href=\"handbooksearch://Table double style Chaumière\">Tables doubles style Chaumière</a> ont toutes les variantes de bois.
 <a href=\"handbooksearch://Table gothique\">Table gothique</a>
 
 Stockage : certains ont des durées de conservation des aliments.
@@ -177,10 +178,10 @@ Les <a href=\"handbooksearch://Boîte aux lettres\">Boîtes aux lettres</a> sont
 Blocs de carrelages :
 <a href=\"handbooksearch://Carrelage beige\">Carrelage beige</a>
 <a href=\"handbooksearch://Carrelage gris\">Carrelage gris</a>
-<a href=\"handbooksearch://Carrelage anthracite\">Carrelage anthracite</a>
+<a href=\"handbooksearch://Carrelage mosaïque\">Carrelage mosaïque</a>
 <a href=\"handbooksearch://Carrelage violet vieilli\">Carrelage violet vieilli</a>
 <a href=\"handbooksearch://Carrelage rose moussu\">Carrelage rose moussu</a>
-<a href=\"handbooksearch://Carrelage carré doré\">Carrelage carré doré</a>
+<a href=\"handbooksearch://Carrelage petits carreaux dorés\">Carrelage petits carreaux dorés</a>
 <a href=\"handbooksearch://Carrelage météorique doré\">Carrelage météorique doré</a>
 
 
@@ -210,10 +211,10 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
 
   "block-bazaarceramicblock-beige*": "Carrelage beige",
   "block-bazaarceramicblock-gray*": "Carrelage gris",
-  "block-bazaarceramicblock-anthro*": "Carrelage anthracite",
+  "block-bazaarceramicblock-anthro*": "Carrelage mosaïque",
   "block-bazaarceramicblock-purpletile*": "Carrelage violet vieilli",
   "block-bazaarceramicblock-mossypink*": "Carrelage rose moussu",
-  "block-bazaarceramicblock-goldsquare*": "Carrelage carré doré",
+  "block-bazaarceramicblock-goldsquare*": "Carrelage petits carreaux dorés",
   "block-bazaarceramicblock-goldmeteor*": "Carrelage météorique doré",
 
   "block-stonestove-*": "Poêle en pierre",
@@ -723,7 +724,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-wallpaper-darkfloral": "Papier peint motif Floral sombre",
   "block-wallpaper-bat": "Papier peint motif Chauve-souris",
 
-  "block-counterclutter-*": "Désordre de cuisine",
+  "block-counterclutter-*": "Désordre de comptoir",
   "block-pot-*": "Pot jaune en céramique",
   "block-potsandpans-*": "Casseroles et poêles",
   "block-jug-*": "Cruche",
