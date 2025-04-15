@@ -42,7 +42,7 @@ La <a href=\"handbooksearch://Baignoire sur pieds\">Baignoire sur pieds</a> perm
 
 
 Tapis :
-Les <a href=\"handbooksearch://Tapis\">Tapis</a> sont disponibles en bleu, noir foncé, rouge vichy, vert, ordinaire, rouge, blanc, à pois blancs, à fleurs jaunes, chic sombre et floral sombre. 
+Les <a href=\"handbooksearch://Tapis\">Tapis</a> sont disponibles en bleu, noir foncé, rouge vichy, vert, neutre, rouge, blanc, à pois blancs, à fleurs jaunes, chic sombre et floral sombre. 
 
 
 Lits :
@@ -159,7 +159,7 @@ Le <a href=\"handbooksearch://Panier à pique-nique\">Panier à pique-nique</a>
 
 
 Rideaux :
-<a href=\"handbooksearch://Rideau\">Rideaux</a> : un clic droit permet de choisir la variante supérieure (avec tringle), centrale ou inférieure de chaque bloc. Il existe actuellement un type uni et un type élégant. Les variantes de couleur sont : noir, bleu, brun, gris, vert, orange, rose, ordinaire, violet, rouge, blanc et jaune.
+<a href=\"handbooksearch://Rideau\">Rideaux</a> : un clic droit permet de choisir la variante supérieure (avec tringle), centrale ou inférieure de chaque bloc. Il existe actuellement un type uni et un type élégant. Les variantes de couleur sont : noir, bleu, brun, gris, vert, orange, rose, neutre, violet, rouge, blanc et jaune.
 
 Boîtes aux lettres :
 Les <a href=\"handbooksearch://Boîte aux lettres\">Boîtes aux lettres</a> sont juste décoratives.
@@ -2600,8 +2600,8 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-curtain-orange-middle-*": "Rideau orange",
   "block-curtain-pink-up-*": "Rideau rose",
   "block-curtain-pink-middle-*": "Rideau rose",
-  "block-curtain-plain-up-*": "Rideau ordinaire",
-  "block-curtain-plain-middle-*": "Rideau ordinaire",
+  "block-curtain-plain-up-*": "Rideau neutre",
+  "block-curtain-plain-middle-*": "Rideau neutre",
   "block-curtain-purple-up-*": "Rideau violet",
   "block-curtain-purple-middle-*": "Rideau violet",
   "block-curtain-red-up-*": "Rideau rouge",
@@ -2634,9 +2634,9 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-fancycurtain-pink-up-*": "Rideau élégant rose",
   "block-fancycurtain-pink-middle-*": "Rideau élégant rose",
   "block-fancycurtain-pink-down-*": "Rideau élégant rose",
-  "block-fancycurtain-plain-up-*": "Rideau élégant ordinaire",
-  "block-fancycurtain-plain-middle-*": "Rideau élégant ordinaire",
-  "block-fancycurtain-plain-down-*": "Rideau élégant ordinaire",
+  "block-fancycurtain-plain-up-*": "Rideau élégant neutre",
+  "block-fancycurtain-plain-middle-*": "Rideau élégant neutre",
+  "block-fancycurtain-plain-down-*": "Rideau élégant neutre",
   "block-fancycurtain-purple-up-*": "Rideau élégant violet",
   "block-fancycurtain-purple-middle-*": "Rideau élégant violet",
   "block-fancycurtain-purple-down-*": "Rideau élégant violet",
@@ -2654,7 +2654,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
 
   "block-sofa-blue-*": "Canapé bleu",
   "block-sofa-green-*": "Canapé vert",
-  "block-sofa-plain-*": "Canapé ordinaire",
+  "block-sofa-plain-*": "Canapé neutre",
   "block-sofa-red-*": "Canapé rouge",
   "block-sofa-white-*": "Canapé blanc",
 
@@ -2679,7 +2679,7 @@ Papiers peints disponibles chez les marchands de luxe, de meubles et d'artisanat
   "block-carpet-darkblack-*": "Tapis noir foncé",
   "block-carpet-ginghamred-*": "Tapis vichy rouge",
   "block-carpet-green-*": "Tapis vert",
-  "block-carpet-neutral-*": "Tapis ordinaire",
+  "block-carpet-neutral-*": "Tapis neutre",
   "block-carpet-red-*": "Tapis rouge",
   "block-carpet-white-*": "Tapis blanc",
   "block-carpet-whitedotted-*": "Tapis blanc à pois",
