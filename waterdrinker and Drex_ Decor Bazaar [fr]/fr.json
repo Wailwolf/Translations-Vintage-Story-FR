@@ -3,7 +3,7 @@
   "game:decorbazaar-quickstart-title": "Bazar décoratif (Decor Bazaar)",
   "game:decorbazaar-quickstart-text": "Merci d'utiliser mon mod ! Il ajoute des objets décoratifs au jeu. Si vous souhaitez aider au développement du mod, contactez-moi sur Discord @anyanana. Merci à @EightTonnesOfCrab sur Discord pour la fonctionnalité bain et merci à @Feidry pour la fonctionnalité poêle/foyer ! Merci à RikeiR pour la traduction en japonais ! Amusez vous bien !
 
-Traduction en français par @Wailwolf, merci à @Laerinok pour sa contribution !
+Traduction en français par @Wailwolf.
 
 Nouveaux blocs avec la version 1.1.6 : nouvelles appliques en métal, nouvelles appliques en bois, évier simple en cyprès chauve désormais disponible et doté de tous les types de bois et de pierre pour s'harmoniser avec les ensembles de cuisine en bois et en pierre. Les éviers simples peuvent contenir de l'eau comme les éviers doubles. J'ai également libéré la table et le tabouret style Chaumière, améliorant ainsi les modèles et autorisant toutes les variantes de bois. Les tables style Chaumière sont désormais disponibles en version double (avec bougies) et simple (sans bougies). Le tabouret style Chaumière est désormais disponible dans sa version originale avec un tabouret avec dossier. 
 
@@ -69,7 +69,7 @@ Le <a href=\"handbooksearch://Stockage de viande\">Stockage de viande</a> a un t
 <a href=\"handbooksearch://Étagère de stockage à miel\">Stockage du miel</a>
 <a href=\"handbooksearch://Étagère de couture\">Étagère de couture</a>
 <a href=\"handbooksearch://Rangement pour ficelle\">Rangement pour ficelle</a>
-Le <a href=\"handbooksearch://Stockage mural de légumes\">Stockage au mur de légumes</a> a un taux de détérioration. 
+Le <a href=\"handbooksearch://Stockage mural de légumes\">Stockage mural de légumes</a> a un taux de détérioration. 
 Le <a href=\"handbooksearch://Stockage de légumes\">Stockage de légumes</a> a un taux de détérioration.
 La <a href=\"handbooksearch://Boîte à pain\">Boîte à pain</a> a un taux de détérioration.
 Le <a href=\"handbooksearch://Bac à compost\">Bac à compost</a> accélérera la pourriture en fonction de la température extérieure.
@@ -101,7 +101,7 @@ Les <a href=\"handbooksearch://Double évier en pierre\">Doubles éviers en pier
 
 Les <a href=\"handbooksearch://Placard en pierre\">Placards en pierre</a> ont des emplacements de stockage.
 Les <a href=\"handbooksearch://Comptoir en pierre\">Comptoirs en pierre</a> ont des emplacements de stockage.
-Les <a href=\"handbooksearch://Îlot avec tiroir en pierre\"> Îlots en pierre</a> ont des emplacements de stockage.
+Les <a href=\"handbooksearch://Îlot avec tiroir en pierre\">Îlots en pierre</a> ont des emplacements de stockage.
 Les <a href=\"handbooksearch://Placard supérieur en\">Placards supérieurs en pierre</a> ont des emplacements de stockage.
 Les <a href=\"handbooksearch://Étagère en pierre\">Étagères en pierre</a> ont des emplacements de stockage.
 
@@ -150,7 +150,7 @@ Sièges :
 Décor de jardin :
 <a href=\"handbooksearch://Pancarte de jardin\">Pancartes de jardin</a>
 <a href=\"handbooksearch://Pancarte Abeilles\">Pancarte Abeilles</a>
-Le <a href=\"handbooksearch://Établi de jardinage\">Établi de jardinage</a> a des emplacements de stockage pour graines.
+L'<a href=\"handbooksearch://Établi de jardinage\">Établi de jardinage</a> a des emplacements de stockage pour graines.
 Le <a href=\"handbooksearch://Stockage de graines\">Stockage de graines</a> a des emplacements de stockage pour graines.
 Les <a href=\"handbooksearch://Pot de fleurs en terre cuite\">Pots de fleurs en terre cuite</a> sont fonctionnels !
 Le <a href=\"handbooksearch://Pot de fleurs bleu\">Pot de fleurs bleu</a> est fonctionnel !
