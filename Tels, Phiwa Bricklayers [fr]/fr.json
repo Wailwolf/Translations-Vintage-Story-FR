@@ -1,8 +1,8 @@
 {
-	"bricklayers:settings_title":				"Bricklayers Settings",
+	"bricklayers:settings_title":				"Paramètres de Bricklayers",
 
-	"bricklayers:setting_vs_vessels":			"Disable VS whole clay vessels",
-	"bricklayers:setting_vs_vessels_comment":		"Disable forming vanilla plain, burned-brownish whole clay vessels from clay.",
+	"bricklayers:setting_vs_vessels":			"Désactiver les récipients entiers en terre cuite de VS",
+	"bricklayers:setting_vs_vessels_comment":		"Désactiver l'artisanat de récipients de base bruns entiers à partir d'argile.",
 
 	"bricklayers:item-smallstonebrick-andesite":		"Pierre de taille en andésite (Petite)",
 	"bricklayers:item-smallstonebrick-basalt":		"Pierre de taille en basalte (Petite)",
